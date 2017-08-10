@@ -1,7 +1,8 @@
 // 1) Looping a Triangle
 
-for (var i = "#"; i.length < 8; i += "#")
+for (var i = "#"; i.length < 8; i += "#") {
   console.log(i);
+};
 
 
 // 2) FizzBuzz
@@ -20,7 +21,7 @@ for (var i = 1; i < 101; i ++) {
             }
         }
     }
-}
+};
 
 
 // 3) Chess Board
